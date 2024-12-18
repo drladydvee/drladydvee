@@ -50,11 +50,6 @@ Key Expertise:
 
 ---
 
-🎯 Let’s Collaborate
-Are you ready to take your cloud and DevOps initiatives to the next level? Let’s connect and discuss how I can help you achieve your goals. Reach out to me via LinkedIn or email, and let’s build something incredible together.
-
-Looking forward to collaborating with you!
-
 ## Tech Stack
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -81,6 +76,11 @@ Looking forward to collaborating with you!
  </tr>
 </table>
 
+---
+🎯 Let’s Collaborate
+Are you ready to take your cloud and DevOps initiatives to the next level? Let’s connect and discuss how I can help you achieve your goals. Reach out to me via LinkedIn or email, and let’s build something incredible together.
+
+Looking forward to collaborating with you!
 <!-- Contact Section -->
 ## 📫 Let's Connect
 <p align="center">
