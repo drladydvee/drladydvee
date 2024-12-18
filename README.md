@@ -1,8 +1,10 @@
-## Hi there, I'am Vera CHimaobim Ake 👋 ##
+## Hi there, I' am Vera Chimaobim Ake 👋 ##
 
 🌟 About Me
 
-I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
+I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management.
+
+I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
 
 🚀 What I Can Do for You
@@ -11,6 +13,7 @@ I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in c
 Optimize Cloud Infrastructure: Design scalable, secure, and cost-efficient cloud environments that align with your unique needs.
 
 Automate Processes: Build and implement robust automation pipelines to minimize manual tasks, reduce errors, and accelerate deployment timelines.
+
 
 
 Enhance Security: Apply industry best practices to protect your systems, ensuring compliance and safeguarding your data.
@@ -23,13 +26,27 @@ Improve System Reliability: Proactively monitor and resolve potential issues to 
 Key Expertise:
 
 ☁️ Cloud Platforms: Microsoft Azure, Google Cloud Platform (GCP), AWS
+
+
 🛠️ Infrastructure as Code: Terraform, Ansible
+
+
 🚢 Containerization: Kubernetes, Docker
+
+
 📊 Monitoring Tools: Splunk Enterprise, Datadog, Prometheus, Cockpit
+
+
 🔒 Cybersecurity: Zero-trust frameworks, Identity management, Network security
+
+
 🐧 System Administration: Linux automation and troubleshooting
+
+
 🖥️ DevOps: CI/CD pipelines with GitHub Actions, Jenkins
-💬 Collaboration Tools: Slack, Microsoft Teams
+
+
+💬 Collaboration Tools: Slack, Microsoft Teams, Google workspace
 
 ---
 
