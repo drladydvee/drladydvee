@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'am Vera CHimaobim Ake 👋 ##
 
 🌟 About Me
 
-I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
+I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
 
 🚀 What I Can Do for You
@@ -18,6 +18,20 @@ Enhance Security: Apply industry best practices to protect your systems, ensurin
 
 Improve System Reliability: Proactively monitor and resolve potential issues to maximize uptime, maintain high performance, and ensure seamless operations.
 
+---
+
+Key Expertise:
+
+☁️ Cloud Platforms: Microsoft Azure, Google Cloud Platform (GCP), AWS
+🛠️ Infrastructure as Code: Terraform, Ansible
+🚢 Containerization: Kubernetes, Docker
+📊 Monitoring Tools: Splunk Enterprise, Datadog, Prometheus, Cockpit
+🔒 Cybersecurity: Zero-trust frameworks, Identity management, Network security
+🐧 System Administration: Linux automation and troubleshooting
+🖥️ DevOps: CI/CD pipelines with GitHub Actions, Jenkins
+💬 Collaboration Tools: Slack, Microsoft Teams
+
+---
 
 🎯 Let’s Collaborate
 Are you ready to take your cloud and DevOps initiatives to the next level? Let’s connect and discuss how I can help you achieve your goals. Reach out to me via LinkedIn or email, and let’s build something incredible together.
@@ -60,20 +74,20 @@ Looking forward to collaborating with you!
 ---
 
  ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmywelly&show_icons=true&theme=dark&count_private=true)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmywelly&theme=dark&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=drladydvee&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drladydvee&theme=dark&hide_border=false)
 
 ---
 
 ## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmywelly&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drladydvee&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emmywelly&theme=darkhub&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=drladydvee&theme=darkhub&margin-w=15&margin-h=15)
 
 ### 🚀 Top Contributed Repositories
 
-![](https://komarev.com/ghpvc/?Emmywelly=your_Emmywelly&color=blue)
+![](https://komarev.com/ghpvc/?Emmywelly=your_drladydvee&color=blue)
 <!--
 **drladydvee/drladydvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
