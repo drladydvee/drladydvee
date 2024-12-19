@@ -7,16 +7,17 @@
 
 I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management.
 
+---
+
 I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
+---
 
-🚀 What I Can Do for You
-
+🚀 My Super Powers
 
 Optimize Cloud Infrastructure: Design scalable, secure, and cost-efficient cloud environments that align with your unique needs.
 
 Automate Processes: Build and implement robust automation pipelines to minimize manual tasks, reduce errors, and accelerate deployment timelines.
-
 
 
 Enhance Security: Apply industry best practices to protect your systems, ensuring compliance and safeguarding your data.
@@ -26,7 +27,7 @@ Improve System Reliability: Proactively monitor and resolve potential issues to 
 
 ---
 
-Key Expertise:
+☁️⚒️🚢Key Expertise📊:
 
 ☁️ Cloud Platforms: Microsoft Azure, Google Cloud Platform (GCP), AWS
 
@@ -80,7 +81,8 @@ Key Expertise:
 </table>
 
 ---
-🎯 Let’s Collaborate
+🎯 *Let’s Collaborate*
+
 Are you ready to take your cloud and DevOps initiatives to the next level? Let’s connect and discuss how I can help you achieve your goals. Reach out to me via LinkedIn or email, and let’s build something incredible together.
 
 Looking forward to collaborating with you!
@@ -102,12 +104,14 @@ Looking forward to collaborating with you!
 ## 📊 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drladydvee&layout=compact&theme=dark)
 
+---
+
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=drladydvee&theme=darkhub&margin-w=15&margin-h=15)
 
 ### 🚀 Top Contributed Repositories
 
-![](https://komarev.com/ghpvc/?Emmywelly=your_drladydvee&color=blue)
+![](https://komarev.com/ghpvc/?drladydvee=your_drladydvee&color=blue)
 <!--
 **drladydvee/drladydvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
