@@ -1,6 +1,9 @@
-## Hi there, I' am Vera Chimaobim Ake 👋 ##
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Vera Chimaobim Ake;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+</p>
 
-🌟 About Me
+🌟 *About Me*
 
 I’m a passionate Cloud/Security/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management.
 
